@@ -1,2 +1,2 @@
-# coin-manager
+# Coin Manager
 A money management web application
