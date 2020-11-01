@@ -1,3 +1,3 @@
 # Coin Manager
 
-A money management web application
+A money management web application.
